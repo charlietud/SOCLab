@@ -10,3 +10,19 @@ Identify, Protect, Detect, Respond, and Recover.
 
 
 ## Network Topology/Structure
+![image](https://github.com/user-attachments/assets/4d52a573-e40a-4bdc-ab56-0cb1c8ae6fde)
+
+The network consists of 5 devices (VMs):
+- Windows Server 2024 (AD)
+- Windows 11
+- Windows 10
+- Linux EndeavourOS
+- Linux Mint
+
+All of which have their network traffic go through the open source firewall [OPNsense](https://opnsense.org/). 
+
+Below we can see a visual representation of the network topology:
+
+
+## Setup
+
