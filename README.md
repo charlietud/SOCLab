@@ -28,5 +28,8 @@ All of which have their network traffic go through the open source firewall [OPN
 Below we can see a visual representation of the network topology:
 
 
+![topology](https://github.com/user-attachments/assets/8da1ca59-56e5-4d1b-87ea-400e12eda432)
+
+
 ## Setup
 
